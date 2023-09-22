@@ -2,7 +2,7 @@
 
 ¡Hola!
 
-Mi nombre es Joel ✌️, apasionado por la programación web con Python, HTML, CSS, bootstrap y Javascript. Adicto al aprendizaje y estudiante de ingeniería mecánica.
+Mi nombre es Joel ✌️, apasionado por la programación web con Python, HTML, CSS, bootstrap, MySQL y Javascript. Adicto al aprendizaje y estudiante de ingeniería mecánica.
 
 Here are some ideas to get you started:
 
