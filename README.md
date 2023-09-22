@@ -6,12 +6,10 @@ Mi nombre es Joel ✌️, apasionado por la programación web con Python, HTML, 
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning programación web mediante Python.
-- 🤔 I’m looking for help with programación web
-- 💬 Ask me about python 
-- 📫 How to reach me: www.linkedin.com/in/joel-ramirez-7774391a3
-- 😄 Pronouns: Joel
-- ⚡ Fun fact: Estudiante de Ingeniería mecánica
+- 🌱 Actualmente estoy programación web mediante Python.
+- 💬 Puedes preguntar acerca de python 
+- 📫 Linkedin: www.linkedin.com/in/joel-ramirez-7774391a3
+- ⚡ Dato curioso: Estudiante de Ingeniería mecánica
 -->
 
 ### Aprendiendo sobre: 
