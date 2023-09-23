@@ -2,11 +2,18 @@
 
 ¡Hola!
 
-Mi nombre es Joel ✌️, apasionado por la programación web con Python, HTML, CSS, bootstrap, MySQL y Javascript. Adicto al aprendizaje y estudiante de ingeniería mecánica.
+Mi nombre es Joel ✌️, apasionado por la programación web mediante:
 
-Here are some ideas to get you started:
+HTML - CSS
+Bootstrap
+C# - ASP.NET CORE
+Python
+Javascript
+MySQL
 
-- 🌱 Actualmente estoy programación web mediante Python.
+Adicto al aprendizaje y estudiante de ingeniería mecánica.
+
+- 🌱 Actualmente estoy aprendiendo programación web mediante Python.
 - 💬 Puedes preguntar acerca de python 
 - 📫 Linkedin: www.linkedin.com/in/joel-ramirez-7774391a3
 - ⚡ Dato curioso: Estudiante de Ingeniería mecánica
