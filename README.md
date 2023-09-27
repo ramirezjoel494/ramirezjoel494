@@ -4,12 +4,7 @@
 
 Mi nombre es Joel ✌️, apasionado por la programación web mediante:
 
-HTML - CSS
-Bootstrap
-C# - ASP.NET CORE
-Python
-Javascript
-MySQL
+HTML - CSS - Bootstrap - Python (Django, Flask) - Javascript (Node js) - C# - ASP.NET CORE - MySQL
 
 Adicto al aprendizaje y estudiante de ingeniería mecánica.
 
