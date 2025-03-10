@@ -2,16 +2,16 @@
 
 ¡Hola!
 
-Mi nombre es Joel ✌️, apasionado por la programación web mediante:
+Mi nombre es Joel ✌️, apasionado por la programación para analisis de datos mediante:
 
-HTML - CSS - Bootstrap - Python (Django, Flask) - Javascript (Node.js y Vue.js) - C# - ASP.NET CORE - MySQL
+Python - R - Tableu - Power BI - MySQL (SQL) - Apache Spark
 
 Adicto al aprendizaje y estudiante de ingeniería mecánica.
 
-- 🌱 Actualmente estoy aprendiendo programación web mediante Python.
-- 💬 Puedes preguntar acerca de python 
+- 🌱 Actualmente estoy aprendiendo minería de datos para su analisis.
+- 💬 Puedes preguntar acerca de python y R
 - 📫 Linkedin: www.linkedin.com/in/joel-ramirez-7774391a3
-- ⚡ Dato curioso: Estudiante de Ingeniería mecánica
+- ⚡ Dato curioso: Soy ingeniero mecánico
 -->
 
 ### Aprendiendo sobre: 
