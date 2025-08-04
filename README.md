@@ -23,5 +23,5 @@ Adicto al aprendizaje y estudiante de ingeniería mecánica.
 -->
 
 ### Aprendiendo sobre: 
-![image](https://github.com/ramirezjoel494/ramirezjoel494/assets/93448778/e94410e0-6af2-45a1-b2e0-2fd8c6a74eb5)
+![image](https://github.com/ramirezjoel494/ramirezjoel494/blob/main/Imagen1.png)
 
