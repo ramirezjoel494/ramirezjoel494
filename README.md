@@ -2,14 +2,22 @@
 
 ¡Hola!
 
-Mi nombre es Joel ✌️, apasionado por la programación para analisis de datos mediante:
+Mi nombre es Joel ✌️, apasionado por la programación para ciencia de datos.
 
-Python - R - Tableu - Power BI - MySQL (SQL) - Apache Spark
+Habilidades técnicas en:
+
+Python (librerías: Pandas, NumPY, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow)
+POO (Programación orientada a objetos)
+R 
+Tableu 
+Power BI 
+MySQL (SQL) 
+MongoDB (NoSQL)
+Apache Spark
 
 Adicto al aprendizaje y estudiante de ingeniería mecánica.
 
 - 🌱 Actualmente estoy aprendiendo minería de datos para su analisis.
-- 💬 Puedes preguntar acerca de python y R
 - 📫 Linkedin: www.linkedin.com/in/joel-ramirez-7774391a3
 - ⚡ Dato curioso: Soy ingeniero mecánico
 -->
