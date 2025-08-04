@@ -22,6 +22,6 @@ Adicto al aprendizaje y estudiante de ingeniería mecánica.
 - ⚡ Dato curioso: Soy ingeniero mecánico
 -->
 
-### Aprendiendo sobre: 
+### Librerías conocidas: 
 ![image](https://github.com/ramirezjoel494/ramirezjoel494/blob/main/Imagen1.png)
 
