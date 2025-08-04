@@ -15,7 +15,9 @@ MySQL (SQL)
 MongoDB (NoSQL)
 Apache Spark
 
-Adicto al aprendizaje y estudiante de ingeniería mecánica.
+Adicto al aprendizaje.
+
+Ingeniero mecánico especializado en Diseño mecánico.
 
 - 🌱 Actualmente estoy aprendiendo minería de datos para su analisis.
 - 📫 Linkedin: www.linkedin.com/in/joel-ramirez-7774391a3
