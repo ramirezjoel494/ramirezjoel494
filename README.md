@@ -17,7 +17,7 @@ Apache Spark
 
 Adicto al aprendizaje.
 
-- 🌱 Actualmente estoy aprendiendo minería de datos para su analisis.
+- 🌱 Actualmente estoy realizando una especialización en inteligencia artificial.
 - 📫 Linkedin: www.linkedin.com/in/joel-ramirez-7774391a3
 - ⚡ Dato curioso: Soy Ingeniero mecánico especializado en Diseño mecánico.
 -->
